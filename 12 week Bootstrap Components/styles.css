@@ -1,0 +1,15 @@
+body {
+  background-color: #00BFFF;
+}
+
+.slide {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-radius: 1000px;
+}
+
+.main-menu {
+  color: black; !important
+}
